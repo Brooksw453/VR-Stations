@@ -41,7 +41,7 @@
                       "AudioData": {
                         "$id": "11",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Hello welcome to this VR process space. Use the grip button to teleport and the trigger button to select. Now, close the menu and teleport to Station 1"
+                        "Text": ""
                       },
                       "ExecutionStages": 1,
                       "Volume": 0.603,
@@ -193,7 +193,7 @@
               "TabsGroup": {
                 "$id": "38",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -1561,7 +1561,7 @@
                       "Target": {
                         "$id": "290",
                         "$type": "VRBuilder.Core.SceneObjects.SceneObjectReference, VRBuilder.Core",
-                        "UniqueName": "Canvas"
+                        "UniqueName": "Screen"
                       },
                       "Metadata": null,
                       "DisableOnDeactivating": false,
@@ -1679,7 +1679,7 @@
               "TabsGroup": {
                 "$id": "312",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -4145,7 +4145,7 @@
               "$id": "768",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "205"
+                "$ref": "3"
               },
               "EntryNodePosition": {
                 "x": -328.8,
